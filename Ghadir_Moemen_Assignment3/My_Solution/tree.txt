@@ -1,0 +1,27 @@
+root:    HST
+node_l:    AST
+node_h:    HY
+node_ll:    AY
+node_lm:    AF
+node_lh:    HR
+node_hl:    AST
+node_hm:    HF
+node_hh:    AY
+0 leaf= H
+1 leaf= A
+2 leaf= H
+3 leaf= A
+4 leaf= A
+5 leaf= A
+6 leaf= A
+7 leaf= A
+8 leaf= A
+9 leaf= H
+10 leaf= n
+11 leaf= n
+12 leaf= H
+13 leaf= H
+14 leaf= A
+15 leaf= A
+16 leaf= A
+17 leaf= A
